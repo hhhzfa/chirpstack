@@ -8,6 +8,7 @@ export function id() {
   return "example_id";
 }
 
+
 // This handles the ADR request.
 //
 // Input object example:
